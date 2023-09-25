@@ -18,16 +18,24 @@ final = []
 for data in lines[1:]: # hranatá závorka vypíše vše, co je od 1. řádku dál
     column = data.split('\t') # split definuje, na čem se jednotlivé sloupce rozdělují - rozseá text
     
+    empty = []
+
     primary_title = {} # tvorba jednotlivých slovníků. Těmi se pak naplní final
     primary_title['title'] = column[2]
     final.append(primary_title)
 
     direct = (column[15]).split(',')
-    primary_title['director'] = direct
+    if direct == "":
+        primary_title['director'] = empty
+    else:
+        primary_title['director'] = direct
     final.append(primary_title)
 
     ca = (column[16]).split(',')
-    primary_title['cast'] = ca
+    if ca == "":
+        primary_title['cast'] = empty
+    else:
+        primary_title['cast'] = ca
     final.append(primary_title)
 
     gen = (column[8]).split(',')
