@@ -236,9 +236,7 @@
     },
     {
         "title": "Power Rangers Turbo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Johnny Yong Bosch",
             " Nakia Burrise",
@@ -265,9 +263,7 @@
     },
     {
         "title": "Power Rangers Turbo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Johnny Yong Bosch",
             " Nakia Burrise",
@@ -294,9 +290,7 @@
     },
     {
         "title": "Power Rangers Turbo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Johnny Yong Bosch",
             " Nakia Burrise",
@@ -323,9 +317,7 @@
     },
     {
         "title": "Power Rangers Turbo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Johnny Yong Bosch",
             " Nakia Burrise",
@@ -352,9 +344,7 @@
     },
     {
         "title": "Power Rangers Turbo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Johnny Yong Bosch",
             " Nakia Burrise",
@@ -2926,9 +2916,7 @@
     },
     {
         "title": "Power Rangers Zeo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Catherine Sutherland",
             " Nakia Burrise",
@@ -2955,9 +2943,7 @@
     },
     {
         "title": "Power Rangers Zeo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Catherine Sutherland",
             " Nakia Burrise",
@@ -2984,9 +2970,7 @@
     },
     {
         "title": "Power Rangers Zeo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Catherine Sutherland",
             " Nakia Burrise",
@@ -3013,9 +2997,7 @@
     },
     {
         "title": "Power Rangers Zeo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Catherine Sutherland",
             " Nakia Burrise",
@@ -3042,9 +3024,7 @@
     },
     {
         "title": "Power Rangers Zeo",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Catherine Sutherland",
             " Nakia Burrise",
@@ -4996,9 +4976,7 @@
     },
     {
         "title": "The Bund",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Chow Yun Fat"
         ],
@@ -5010,9 +4988,7 @@
     },
     {
         "title": "The Bund",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Chow Yun Fat"
         ],
@@ -5024,9 +5000,7 @@
     },
     {
         "title": "The Bund",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Chow Yun Fat"
         ],
@@ -5038,9 +5012,7 @@
     },
     {
         "title": "The Bund",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Chow Yun Fat"
         ],
@@ -5052,9 +5024,7 @@
     },
     {
         "title": "The Bund",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Chow Yun Fat"
         ],
@@ -6356,9 +6326,7 @@
     },
     {
         "title": "Pasi\u00f3n de Gavilanes",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Danna Garc\u00eda",
             " Mario Cimarro",
@@ -6381,9 +6349,7 @@
     },
     {
         "title": "Pasi\u00f3n de Gavilanes",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Danna Garc\u00eda",
             " Mario Cimarro",
@@ -6406,9 +6372,7 @@
     },
     {
         "title": "Pasi\u00f3n de Gavilanes",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Danna Garc\u00eda",
             " Mario Cimarro",
@@ -6431,9 +6395,7 @@
     },
     {
         "title": "Pasi\u00f3n de Gavilanes",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Danna Garc\u00eda",
             " Mario Cimarro",
@@ -6456,9 +6418,7 @@
     },
     {
         "title": "Pasi\u00f3n de Gavilanes",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Danna Garc\u00eda",
             " Mario Cimarro",
@@ -6876,9 +6836,7 @@
     },
     {
         "title": "Power Rangers Mystic Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Firass Dirani",
             " Angie Diaz",
@@ -6903,9 +6861,7 @@
     },
     {
         "title": "Power Rangers Mystic Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Firass Dirani",
             " Angie Diaz",
@@ -6930,9 +6886,7 @@
     },
     {
         "title": "Power Rangers Mystic Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Firass Dirani",
             " Angie Diaz",
@@ -6957,9 +6911,7 @@
     },
     {
         "title": "Power Rangers Mystic Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Firass Dirani",
             " Angie Diaz",
@@ -6984,9 +6936,7 @@
     },
     {
         "title": "Power Rangers Mystic Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Firass Dirani",
             " Angie Diaz",
@@ -8176,9 +8126,7 @@
     },
     {
         "title": "Power Rangers Lost Galaxy",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Archie Kao",
             " Reggie Rolle",
@@ -8205,9 +8153,7 @@
     },
     {
         "title": "Power Rangers Lost Galaxy",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Archie Kao",
             " Reggie Rolle",
@@ -8234,9 +8180,7 @@
     },
     {
         "title": "Power Rangers Lost Galaxy",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Archie Kao",
             " Reggie Rolle",
@@ -8263,9 +8207,7 @@
     },
     {
         "title": "Power Rangers Lost Galaxy",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Archie Kao",
             " Reggie Rolle",
@@ -8292,9 +8234,7 @@
     },
     {
         "title": "Power Rangers Lost Galaxy",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Archie Kao",
             " Reggie Rolle",
@@ -8511,9 +8451,7 @@
     },
     {
         "title": "Twin Peaks",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Kyle MacLachlan",
             " Michael Ontkean",
@@ -8551,9 +8489,7 @@
     },
     {
         "title": "Twin Peaks",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Kyle MacLachlan",
             " Michael Ontkean",
@@ -8591,9 +8527,7 @@
     },
     {
         "title": "Twin Peaks",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Kyle MacLachlan",
             " Michael Ontkean",
@@ -8631,9 +8565,7 @@
     },
     {
         "title": "Twin Peaks",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Kyle MacLachlan",
             " Michael Ontkean",
@@ -8671,9 +8603,7 @@
     },
     {
         "title": "Twin Peaks",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Kyle MacLachlan",
             " Michael Ontkean",
@@ -9746,9 +9676,7 @@
     },
     {
         "title": "Power Rangers Wild Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ricardo Medina Jr.",
             " Alyson Kiperman",
@@ -9771,9 +9699,7 @@
     },
     {
         "title": "Power Rangers Wild Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ricardo Medina Jr.",
             " Alyson Kiperman",
@@ -9796,9 +9722,7 @@
     },
     {
         "title": "Power Rangers Wild Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ricardo Medina Jr.",
             " Alyson Kiperman",
@@ -9821,9 +9745,7 @@
     },
     {
         "title": "Power Rangers Wild Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ricardo Medina Jr.",
             " Alyson Kiperman",
@@ -9846,9 +9768,7 @@
     },
     {
         "title": "Power Rangers Wild Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ricardo Medina Jr.",
             " Alyson Kiperman",
@@ -12766,9 +12686,7 @@
     },
     {
         "title": "Power Rangers S.P.D.",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Brandon Jay McLaren",
             " Chris Violette",
@@ -12795,9 +12713,7 @@
     },
     {
         "title": "Power Rangers S.P.D.",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Brandon Jay McLaren",
             " Chris Violette",
@@ -12824,9 +12740,7 @@
     },
     {
         "title": "Power Rangers S.P.D.",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Brandon Jay McLaren",
             " Chris Violette",
@@ -12853,9 +12767,7 @@
     },
     {
         "title": "Power Rangers S.P.D.",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Brandon Jay McLaren",
             " Chris Violette",
@@ -12882,9 +12794,7 @@
     },
     {
         "title": "Power Rangers S.P.D.",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Brandon Jay McLaren",
             " Chris Violette",
@@ -14804,9 +14714,7 @@
         "director": [
             "John Huston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Short",
@@ -14819,9 +14727,7 @@
         "director": [
             "John Huston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Short",
@@ -14834,9 +14740,7 @@
         "director": [
             "John Huston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Short",
@@ -14849,9 +14753,7 @@
         "director": [
             "John Huston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Short",
@@ -14864,9 +14766,7 @@
         "director": [
             "John Huston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Short",
@@ -17946,9 +17846,7 @@
     },
     {
         "title": "Chewin' the Fat",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ford Kiernan",
             " Greg Hemphill",
@@ -17963,9 +17861,7 @@
     },
     {
         "title": "Chewin' the Fat",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ford Kiernan",
             " Greg Hemphill",
@@ -17980,9 +17876,7 @@
     },
     {
         "title": "Chewin' the Fat",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ford Kiernan",
             " Greg Hemphill",
@@ -17997,9 +17891,7 @@
     },
     {
         "title": "Chewin' the Fat",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ford Kiernan",
             " Greg Hemphill",
@@ -18014,9 +17906,7 @@
     },
     {
         "title": "Chewin' the Fat",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ford Kiernan",
             " Greg Hemphill",
@@ -18506,9 +18396,7 @@
     },
     {
         "title": "Rebelde",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Anah\u00ed",
             " Dulce Mar\u00eda",
@@ -18530,9 +18418,7 @@
     },
     {
         "title": "Rebelde",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Anah\u00ed",
             " Dulce Mar\u00eda",
@@ -18554,9 +18440,7 @@
     },
     {
         "title": "Rebelde",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Anah\u00ed",
             " Dulce Mar\u00eda",
@@ -18578,9 +18462,7 @@
     },
     {
         "title": "Rebelde",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Anah\u00ed",
             " Dulce Mar\u00eda",
@@ -18602,9 +18484,7 @@
     },
     {
         "title": "Rebelde",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Anah\u00ed",
             " Dulce Mar\u00eda",
@@ -28686,9 +28566,7 @@
     },
     {
         "title": "Power Rangers in Space",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Tracy Lynn Cruz",
             " Patricia Ja Lee",
@@ -28715,9 +28593,7 @@
     },
     {
         "title": "Power Rangers in Space",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Tracy Lynn Cruz",
             " Patricia Ja Lee",
@@ -28744,9 +28620,7 @@
     },
     {
         "title": "Power Rangers in Space",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Tracy Lynn Cruz",
             " Patricia Ja Lee",
@@ -28773,9 +28647,7 @@
     },
     {
         "title": "Power Rangers in Space",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Tracy Lynn Cruz",
             " Patricia Ja Lee",
@@ -28802,9 +28674,7 @@
     },
     {
         "title": "Power Rangers in Space",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Tracy Lynn Cruz",
             " Patricia Ja Lee",
@@ -29171,9 +29041,7 @@
     },
     {
         "title": "Monty Python's Fliegender Zirkus",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Graham Chapman",
             " John Cleese",
@@ -29189,9 +29057,7 @@
     },
     {
         "title": "Monty Python's Fliegender Zirkus",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Graham Chapman",
             " John Cleese",
@@ -29207,9 +29073,7 @@
     },
     {
         "title": "Monty Python's Fliegender Zirkus",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Graham Chapman",
             " John Cleese",
@@ -29225,9 +29089,7 @@
     },
     {
         "title": "Monty Python's Fliegender Zirkus",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Graham Chapman",
             " John Cleese",
@@ -29243,9 +29105,7 @@
     },
     {
         "title": "Monty Python's Fliegender Zirkus",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Graham Chapman",
             " John Cleese",
@@ -32006,9 +31866,7 @@
     },
     {
         "title": "Fullmetal Alchemist",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Romi Park",
             " Rie Kugimiya",
@@ -32040,9 +31898,7 @@
     },
     {
         "title": "Fullmetal Alchemist",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Romi Park",
             " Rie Kugimiya",
@@ -32074,9 +31930,7 @@
     },
     {
         "title": "Fullmetal Alchemist",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Romi Park",
             " Rie Kugimiya",
@@ -32108,9 +31962,7 @@
     },
     {
         "title": "Fullmetal Alchemist",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Romi Park",
             " Rie Kugimiya",
@@ -32142,9 +31994,7 @@
     },
     {
         "title": "Fullmetal Alchemist",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Romi Park",
             " Rie Kugimiya",
@@ -32386,9 +32236,7 @@
     },
     {
         "title": "Vientos de agua",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ernesto Alterio",
             " Eduardo Blanco",
@@ -32407,9 +32255,7 @@
     },
     {
         "title": "Vientos de agua",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ernesto Alterio",
             " Eduardo Blanco",
@@ -32428,9 +32274,7 @@
     },
     {
         "title": "Vientos de agua",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ernesto Alterio",
             " Eduardo Blanco",
@@ -32449,9 +32293,7 @@
     },
     {
         "title": "Vientos de agua",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ernesto Alterio",
             " Eduardo Blanco",
@@ -32470,9 +32312,7 @@
     },
     {
         "title": "Vientos de agua",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Ernesto Alterio",
             " Eduardo Blanco",
@@ -33506,9 +33346,7 @@
     },
     {
         "title": "The Super Mario Bros. Super Show!",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Captain Lou Albano",
             " Danny Wells",
@@ -33529,9 +33367,7 @@
     },
     {
         "title": "The Super Mario Bros. Super Show!",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Captain Lou Albano",
             " Danny Wells",
@@ -33552,9 +33388,7 @@
     },
     {
         "title": "The Super Mario Bros. Super Show!",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Captain Lou Albano",
             " Danny Wells",
@@ -33575,9 +33409,7 @@
     },
     {
         "title": "The Super Mario Bros. Super Show!",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Captain Lou Albano",
             " Danny Wells",
@@ -33598,9 +33430,7 @@
     },
     {
         "title": "The Super Mario Bros. Super Show!",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Captain Lou Albano",
             " Danny Wells",
@@ -34451,9 +34281,7 @@
     },
     {
         "title": "Neon Genesis Evangelion",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Megumi Ogata",
             " Kotono Mitsuishi",
@@ -34480,9 +34308,7 @@
     },
     {
         "title": "Neon Genesis Evangelion",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Megumi Ogata",
             " Kotono Mitsuishi",
@@ -34509,9 +34335,7 @@
     },
     {
         "title": "Neon Genesis Evangelion",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Megumi Ogata",
             " Kotono Mitsuishi",
@@ -34538,9 +34362,7 @@
     },
     {
         "title": "Neon Genesis Evangelion",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Megumi Ogata",
             " Kotono Mitsuishi",
@@ -34567,9 +34389,7 @@
     },
     {
         "title": "Neon Genesis Evangelion",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Megumi Ogata",
             " Kotono Mitsuishi",
@@ -36166,9 +35986,7 @@
     },
     {
         "title": "Power Rangers Lightspeed Rescue",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Michael Chaturantabut",
             " Sean CW Johnson",
@@ -36190,9 +36008,7 @@
     },
     {
         "title": "Power Rangers Lightspeed Rescue",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Michael Chaturantabut",
             " Sean CW Johnson",
@@ -36214,9 +36030,7 @@
     },
     {
         "title": "Power Rangers Lightspeed Rescue",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Michael Chaturantabut",
             " Sean CW Johnson",
@@ -36238,9 +36052,7 @@
     },
     {
         "title": "Power Rangers Lightspeed Rescue",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Michael Chaturantabut",
             " Sean CW Johnson",
@@ -36262,9 +36074,7 @@
     },
     {
         "title": "Power Rangers Lightspeed Rescue",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Michael Chaturantabut",
             " Sean CW Johnson",
@@ -37731,9 +37541,7 @@
     },
     {
         "title": "North & South",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Daniela Denby-Ashe",
             " Richard Armitage",
@@ -37754,9 +37562,7 @@
     },
     {
         "title": "North & South",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Daniela Denby-Ashe",
             " Richard Armitage",
@@ -37777,9 +37583,7 @@
     },
     {
         "title": "North & South",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Daniela Denby-Ashe",
             " Richard Armitage",
@@ -37800,9 +37604,7 @@
     },
     {
         "title": "North & South",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Daniela Denby-Ashe",
             " Richard Armitage",
@@ -37823,9 +37625,7 @@
     },
     {
         "title": "North & South",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Daniela Denby-Ashe",
             " Richard Armitage",
@@ -39119,9 +38919,7 @@
         "director": [
             "Stuart Heisler"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Drama",
@@ -39134,9 +38932,7 @@
         "director": [
             "Stuart Heisler"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Drama",
@@ -39149,9 +38945,7 @@
         "director": [
             "Stuart Heisler"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Drama",
@@ -39164,9 +38958,7 @@
         "director": [
             "Stuart Heisler"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Drama",
@@ -39179,9 +38971,7 @@
         "director": [
             "Stuart Heisler"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary",
             "Drama",
@@ -43486,9 +43276,7 @@
     },
     {
         "title": "Shaka Zulu",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Edward Fox",
             " Robert Powell",
@@ -43515,9 +43303,7 @@
     },
     {
         "title": "Shaka Zulu",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Edward Fox",
             " Robert Powell",
@@ -43544,9 +43330,7 @@
     },
     {
         "title": "Shaka Zulu",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Edward Fox",
             " Robert Powell",
@@ -43573,9 +43357,7 @@
     },
     {
         "title": "Shaka Zulu",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Edward Fox",
             " Robert Powell",
@@ -43602,9 +43384,7 @@
     },
     {
         "title": "Shaka Zulu",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Edward Fox",
             " Robert Powell",
@@ -43631,9 +43411,7 @@
     },
     {
         "title": "Robotech",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jean-Claude Ballard",
             " Gregory Snegoff",
@@ -43653,9 +43431,7 @@
     },
     {
         "title": "Robotech",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jean-Claude Ballard",
             " Gregory Snegoff",
@@ -43675,9 +43451,7 @@
     },
     {
         "title": "Robotech",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jean-Claude Ballard",
             " Gregory Snegoff",
@@ -43697,9 +43471,7 @@
     },
     {
         "title": "Robotech",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jean-Claude Ballard",
             " Gregory Snegoff",
@@ -43719,9 +43491,7 @@
     },
     {
         "title": "Robotech",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jean-Claude Ballard",
             " Gregory Snegoff",
@@ -47621,9 +47391,7 @@
     },
     {
         "title": "Power Rangers Ninja Storm",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Pua Magasiva",
             " Sally Martin",
@@ -47647,9 +47415,7 @@
     },
     {
         "title": "Power Rangers Ninja Storm",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Pua Magasiva",
             " Sally Martin",
@@ -47673,9 +47439,7 @@
     },
     {
         "title": "Power Rangers Ninja Storm",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Pua Magasiva",
             " Sally Martin",
@@ -47699,9 +47463,7 @@
     },
     {
         "title": "Power Rangers Ninja Storm",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Pua Magasiva",
             " Sally Martin",
@@ -47725,9 +47487,7 @@
     },
     {
         "title": "Power Rangers Ninja Storm",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Pua Magasiva",
             " Sally Martin",
@@ -47844,9 +47604,7 @@
         "director": [
             "Jennie Livingston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -47857,9 +47615,7 @@
         "director": [
             "Jennie Livingston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -47870,9 +47626,7 @@
         "director": [
             "Jennie Livingston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -47883,9 +47637,7 @@
         "director": [
             "Jennie Livingston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -47896,9 +47648,7 @@
         "director": [
             "Jennie Livingston"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -49084,9 +48834,7 @@
         "director": [
             "Ashim Ahluwalia"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -49097,9 +48845,7 @@
         "director": [
             "Ashim Ahluwalia"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -49110,9 +48856,7 @@
         "director": [
             "Ashim Ahluwalia"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -49123,9 +48867,7 @@
         "director": [
             "Ashim Ahluwalia"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -49136,9 +48878,7 @@
         "director": [
             "Ashim Ahluwalia"
         ],
-        "cast": [
-            ""
-        ],
+        "cast": [],
         "genres": [
             "Documentary"
         ],
@@ -50626,9 +50366,7 @@
     },
     {
         "title": "Ninja Turtles: The Next Mutation",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jarred Blancard",
             " Mitchell A. Lee Yuen",
@@ -50656,9 +50394,7 @@
     },
     {
         "title": "Ninja Turtles: The Next Mutation",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jarred Blancard",
             " Mitchell A. Lee Yuen",
@@ -50686,9 +50422,7 @@
     },
     {
         "title": "Ninja Turtles: The Next Mutation",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jarred Blancard",
             " Mitchell A. Lee Yuen",
@@ -50716,9 +50450,7 @@
     },
     {
         "title": "Ninja Turtles: The Next Mutation",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jarred Blancard",
             " Mitchell A. Lee Yuen",
@@ -50746,9 +50478,7 @@
     },
     {
         "title": "Ninja Turtles: The Next Mutation",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jarred Blancard",
             " Mitchell A. Lee Yuen",
@@ -52871,9 +52601,7 @@
     },
     {
         "title": "Power Rangers Time Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jason Faunt",
             " Erin Cahill",
@@ -52897,9 +52625,7 @@
     },
     {
         "title": "Power Rangers Time Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jason Faunt",
             " Erin Cahill",
@@ -52923,9 +52649,7 @@
     },
     {
         "title": "Power Rangers Time Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jason Faunt",
             " Erin Cahill",
@@ -52949,9 +52673,7 @@
     },
     {
         "title": "Power Rangers Time Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jason Faunt",
             " Erin Cahill",
@@ -52975,9 +52697,7 @@
     },
     {
         "title": "Power Rangers Time Force",
-        "director": [
-            ""
-        ],
+        "director": [],
         "cast": [
             "Jason Faunt",
             " Erin Cahill",

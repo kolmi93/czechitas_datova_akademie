@@ -1,10 +1,4 @@
-import pandas as pd
 import json
-
-# načtení pomocí pandas read_csv a sep - pro konktolu (lepší přehled)
-netflix_přehled = pd.read_csv('netflix_titles.tsv', sep='\t')
-# print(netflix_přehled)
-# print(netflix_přehled.columns)
 
 lines=[]
 with open ('netflix_titles.tsv', encoding='utf-8') as file:
@@ -16,26 +10,20 @@ final = []
 
 # jednotlivé slovníky:
 for data in lines[1:]: # hranatá závorka vypíše vše, co je od 1. řádku dál
-    column = data.split('\t') # split definuje, na čem se jednotlivé sloupce rozdělují - rozseá text
-    
-    empty = []
+    column = data.split('\t') # split definuje, na čem se jednotlivé sloupce rozdělují - rozseká text
 
     primary_title = {} # tvorba jednotlivých slovníků. Těmi se pak naplní final
     primary_title['title'] = column[2]
     final.append(primary_title)
 
     direct = (column[15]).split(',')
-    if direct == "":
-        primary_title['director'] = empty
-    else:
-        primary_title['director'] = direct
+    d = list(filter(None, direct))
+    primary_title['director'] = d
     final.append(primary_title)
 
     ca = (column[16]).split(',')
-    if ca == "":
-        primary_title['cast'] = empty
-    else:
-        primary_title['cast'] = ca
+    c = list(filter(None, ca))
+    primary_title['cast'] = c
     final.append(primary_title)
 
     gen = (column[8]).split(',')
@@ -57,10 +45,6 @@ for data in lines[1:]: # hranatá závorka vypíše vše, co je od 1. řádku d�
     else:
         primary_title['decade'] = '2030'
     final.append(primary_title)
-
-print(final)
-
-# print(netflix_přehled.columns) # přehled názvu sloupců
 
 with open ('Kolarova_Michaela_2.py', mode='w', encoding='utf-8') as file:
     json.dump(final, file, indent=4)
