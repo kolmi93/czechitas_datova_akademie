@@ -14,37 +14,26 @@ for data in lines[1:]: # hranatá závorka vypíše vše, co je od 1. řádku d�
 
     primary_title = {} # tvorba jednotlivých slovníků. Těmi se pak naplní final
     primary_title['title'] = column[2]
-    final.append(primary_title)
 
     direct = (column[15]).split(',')
     d = list(filter(None, direct))
     primary_title['director'] = d
-    final.append(primary_title)
 
     ca = (column[16]).split(',')
     c = list(filter(None, ca))
     primary_title['cast'] = c
-    final.append(primary_title)
 
     gen = (column[8]).split(',')
     primary_title['genres'] = gen
-    final.append(primary_title)
-
-    if int(column[5]) >= 1970 and int(column[5]) < 1980:
-        primary_title['decade'] = '1970'
-    elif int(column[5]) >= 1980 and int(column[5]) < 1990:
-        primary_title['decade'] = '1980'
-    elif int(column[5]) >= 1990 and int(column[5]) < 2000:
-        primary_title['decade'] = '1990'
-    elif int(column[5]) >= 2000 and int(column[5]) < 2010:
-        primary_title['decade'] = '2000'
-    elif int(column[5]) >= 2010 and int(column[5]) < 2020:
-        primary_title['decade'] = '2010'
-    elif int(column[5]) >= 2020 and int(column[5]) < 2030:
-        primary_title['decade'] = '2020'
+    
+    choice = column[5].split(',')
+    time =  int("".join(choice))
+    if time % 10 == 0:
+        time = time
     else:
-        primary_title['decade'] = '2030'
+        time = time - time % 10
+    primary_title['decade'] = time
     final.append(primary_title)
 
-with open ('Kolarova_Michaela_2.py', mode='w', encoding='utf-8') as file:
-    json.dump(final, file, indent=4)
+with open ('movies.json', mode='w', encoding='utf-8') as file:
+    json.dump(final, file, indent=4, ensure_ascii = False)
