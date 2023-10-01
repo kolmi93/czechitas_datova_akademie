@@ -33,7 +33,8 @@ for data in lines[1:]: # hranatá závorka vypíše vše, co je od 1. řádku d�
     else:
         time = time - time % 10
     primary_title['decade'] = time
-    final.append(primary_title)
+    final.append(primary_title) # append do final jen jednou, jinak budou duplicity !!!
+
 
 with open ('movies.json', mode='w', encoding='utf-8') as file:
     json.dump(final, file, indent=4, ensure_ascii = False)
