@@ -1,59 +1,47 @@
-import pandas as pd
-import json
+fruit_sales = [
+    {"fruit": "apple", "quantity": 30, "price_per_unit": 1.2},
+    {"fruit": "orange", "quantity": 45, "price_per_unit": 0.8},
+    {"fruit": "banana", "quantity": 25, "price_per_unit": 0.6},
+    {"fruit": "grape", "quantity": 40, "price_per_unit": 2.5},
+]
 
-# načtení pomocí pandas read_csv a sep - pro konktolu (lepší přehled)
-netflix_přehled = pd.read_csv('netflix_titles.tsv', sep='\t')
-# print(netflix_přehled)
-# print(netflix_přehled.columns)
+total_price = []
+for one_fruit in fruit_sales:
+    print(one_fruit['quantity'])
+    print(one_fruit['price_per_unit'])
+    total = one_fruit['quantity'] * one_fruit['price_per_unit']
+    total_price.append(total)
+print(sum(total_price))
+print(f'Celková tržba za ovoce je {sum(total_price)} Kč.')
+print(f'Přičemž tržba z jablek činí {round(total_price[0])} Kč, pomerančů {round(total_price[1])} Kč, banánů {round(total_price[2])} Kč a hroznů {round(total_price[3])} Kč.')
 
-lines=[]
-with open ('netflix_titles.tsv', encoding='utf-8') as file:
-    for line in file:
-        lines.append(line.strip()) # odstraní mezery na koncích a začátcích stringu
+# č.3:
+# Napiš příkaz, který zjistí z proměnné d počet koníčků dané osoby a uloží ho do proměnné count_hobbies. 
+d = {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "hobbies": ["running", "sky diving", "singing"],
+    "age": 35,
+    "children": [
+        {
+            "firstName": "Alice",
+            "age": 6
+        },
+        {
+            "firstName": "Bob",
+            "age": 8
+        }
+    ]
+}
 
-# do listu se nahrajou jednotlivé slovníky
-final = []
+# print(d['hobbies'])
+count_hobbies = len(d["hobbies"])
+print(count_hobbies)
 
-# jednotlivé slovníky:
-for data in lines[1:]: # hranatá závorka vypíše vše, co je od 1. řádku dál
-    column = data.split('\t') # split definuje, na čem se jednotlivé sloupce rozdělují - rozseá text
-    
-    primary_title = {} # tvorba jednotlivých slovníků. Těmi se pak naplní final
-    primary_title['title'] = column[2]
-    lines.append(primary_title)
+# Č.4:
+# Pro zadanou proměnnou w: w = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+# Napiš výraz, který vrátí seznam pracovních dnů, tedy [“Monday”, “Tuesday”, “Wednesday”, “Thursday”, “Friday”].
 
-    director = {} # tvorba jednotlivých slovníků. Těmi se pak naplní final
-    director['director'] = column[15]
-    lines.append(director)
-
-    cast = {}
-    cast['cast'] = column[16]
-    lines.append(cast)
-
-    genres = {}
-    genres['genres'] = column[8]
-    lines.append(genres)
-
-    decade = {}
-    if int(column[5]) >= 1970 and int(column[5]) < 1980:
-        decade['decade'] = '1970'
-    elif int(column[5]) >= 1980 and int(column[5]) < 1990:
-        decade['decade'] = '1980'
-    elif int(column[5]) >= 1990 and int(column[5]) < 2000:
-        decade['decade'] = '1990'
-    elif int(column[5]) >= 2000 and int(column[5]) < 2010:
-        decade['decade'] = '2000'
-    elif int(column[5]) >= 2010 and int(column[5]) < 2020:
-        decade['decade'] = '2010'
-    elif int(column[5]) >= 2020 and int(column[5]) < 2030:
-        decade['decade'] = '2020'
-    else:
-        decade['decade'] = '2030'
-    lines.append(decade)
-
-print(lines)
-
-# print(netflix_přehled.columns) # přehled názvu sloupců
-
-with open ('Kolarova_Michaela_2.py', mode='w', encoding='utf-8') as file:
-    json.dump(final, file, indent=4)
+w = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+work_days = w[:5]
+print(work_days)

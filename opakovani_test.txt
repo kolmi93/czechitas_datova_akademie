@@ -1,0 +1,26 @@
+# 1. průměr bez použití sum
+
+vypočítejte průměr seznamu čísel, bez použití funkce sum nebo modulu statistics
+"""
+list_cisel = [7, 14, 2, 18, 9, 12, 6, 11, 4, 16]
+soucet = 0
+for cislo in list_cisel:
+    # chceme přičítat
+    soucet += cislo
+pocet = len(list_cisel)
+print(f'prumer je: {soucet / pocet}')
+
+rocni_teploty = {
+    "Leden": 5.0,
+    "Únor": 6.5,
+    "Březen": 10.2,
+    "Duben": 15.8,
+    "Květen": 20.7,
+    "Červen": 25.4,
+    "Červenec": 28.3,
+    "Srpen": 27.8,
+    "Září": 24.2,
+    "Říjen": 18.3,
+    "Listopad": 12.1,
+    "Prosinec": 7.0
+}

@@ -4,7 +4,7 @@ print(cislo)
 cislo +=1
 print(cislo)
 
-# ÚKOL Č.2 - ulož do proměnné číslo od uživatele a pak zadej kó, který zvýší číslo o 1
+# ÚKOL Č.2 - ulož do proměnné číslo od uživatele a pak zadej kód, který zvýší číslo o 1
 cislo_2 = int(input("Vyberte si libovolné číslo:\n"))
 print (cislo_2)
 cislo_2 +=1
