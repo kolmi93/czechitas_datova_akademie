@@ -203,5 +203,3 @@ def kolac_milion(question):
 question = int(input('Zvojte si libovolné celé kladné číslo (kromě nuly):\n'))
 cisla = kolac_milion(question)
 print(cisla)
-
-# Ahoj Kubo, posílám svoje řešení koláče. Vyšlo mi, že série vždycky skončí na 1. Zkoušela jsem to několikrát spustit. Vždycky, ať už bylo zadané číslo liché či vzniklo při dělení (v podmínce IF), tak to tím *3+1 zvětšilo na sudé číslo, které se pak dalo dělit 2. A jede to do té doby, než skončí na 
