@@ -1,4 +1,5 @@
 ODDELOVAC = 80*'-'
+
 # 1. průměr bez použití sum
 #vypočítejte průměr seznamu čísel, bez použití funkce sum nebo modulu statistics
 list_cisel = [7, 14, 2, 18, 9, 12, 6, 11, 4, 16]
